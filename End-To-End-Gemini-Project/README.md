@@ -120,19 +120,18 @@ streamlit run app.py
 
 ### Gemini Chatbot
 
-_Add screenshot here_
+![Gemini Chatbot](screenshots/chat_output.png)
 
 ---
 
 ### Gemini Vision
 
-_Add screenshot here_
-
+![Gemini Vision](screenshots/vision_output.png)
 ---
 
 ### Question Answering
 
-_Add screenshot here_
+![Question Answering](screenshots/qachat_output.png)
 
 ---
 
