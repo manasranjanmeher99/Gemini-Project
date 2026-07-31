@@ -9,11 +9,15 @@ A collection of AI applications built using **Google Gemini API**, **Python**, a
 ```
 End-To-End-Gemini-Project/
 │
+├── screenshots
+│   ├── chatbot.png
+│   ├── vision.png
+│   └── qachat.png
+│
 ├── app.py                  # Main Streamlit application
 ├── chat.py                 # Gemini Chatbot
 ├── qachat.py               # Question Answering Chatbot
 ├── vision.py               # Gemini Vision (Image Analysis)
-│
 ├── requirements.txt
 └── README.md
 ```
